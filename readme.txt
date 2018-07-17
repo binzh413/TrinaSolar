@@ -19,4 +19,4 @@ fuck TrinaSolar：
 
 create branch dev for test
 
-creating branch to 
+create a new branch feature1 to test and Simple 
