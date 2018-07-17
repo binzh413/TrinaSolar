@@ -22,3 +22,6 @@ create branch dev for test
 create a new branch feature1 to test and Simple 
 
 add dev branch
+
+
+to test bug branch
